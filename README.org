@@ -1,0 +1,8 @@
+#+TITLE: MPV Typescript Template
+This is a template
+* Getting started
+1. Ensure a recent version of Node.js is installed
+2. (Optional) Fork this repository
+3. Clone into your MPV scripts directory. On Linux, this would be =~/.config/mpv/scripts/=
+4. In the newly created folder, run =npm install=.
+5. Compile and run using =npm run mpv=
