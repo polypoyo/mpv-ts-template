@@ -1,5 +1,5 @@
 #+TITLE: MPV Typescript Template
-This is a template
+This is a template for writing MPV scripts using TypeScript.
 * Getting started
 1. Ensure a recent version of Node.js is installed
 2. (Optional) Fork this repository
